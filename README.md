@@ -18,3 +18,17 @@ retrieving corresponding address for the name provided. It consists of two graph
 ## Technologies Used
 - Programming Language:Python, Tkinter
 - Database: Postgres
+
+## Requirements to run the script:
+1) An IDE that supports python.
+2) Tkinter package
+3) psycopg2 -- a python driver for postgreSQL
+4) Postgres server
+
+
+## To execute the file:
+1) Copy the script in any python IDE.
+2) Create Database named customer with columns 'name' and 'address'.
+3) Set up Postgres connection by editing lines from 5-10. 
+4) Run the code
+
