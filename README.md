@@ -3,7 +3,7 @@ GUI-based system for managing an address book, which includes storing and retrie
 
 ## Features
 This project aims to provide a user-friendly interface for storing names and addresses into a database and 
-retrieving corresponding address forthe provided name . It consists of two graphical user interfaces (GUIs) for separate functionalities.
+retrieving corresponding address for the name provided. It consists of two graphical user interfaces (GUIs) for separate functionalities.
 
 ### Address Storage GUI
 - Allows users to input and store name and address information into the connected database.
